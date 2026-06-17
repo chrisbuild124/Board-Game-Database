@@ -10,7 +10,7 @@ An efficient web-based system for managing inventory, rentals, and purchases in 
 - Full CRUD operations (Create, Read, Update, Delete) on all major entities
 - Admin tools for stock management and database reset
 
-## 🛠️ How It Works
+## How It Works
 
 1. **Customer Registration**  
    Customers input their account information via the **Customer** page.
@@ -24,7 +24,7 @@ An efficient web-based system for managing inventory, rentals, and purchases in 
 4. **Admin Controls**  
    Admins can monitor stock levels and reset the database to its original state via a dedicated button.
 
-### 🏠 Home Screen  
+### Home Screen  
 After connecting to the server, users land on the home screen:
 
 ![Home Screen](https://github.com/user-attachments/assets/12276cdb-0d09-49cf-9557-dfaca352b3fc)
